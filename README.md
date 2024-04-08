@@ -1,7 +1,7 @@
 # Trans-DAT
 This repository contains the official implementation for the following paper:
 [Domain Adaptation-aware Transformer for Hyperspectral Object Tracking](https://ieeexplore.ieee.org/document/10491347), 
-which has been accepeted by TEEE TCSVT.
+which has been accepeted by IEEE TCSVT.
 
 
 ### Environment
