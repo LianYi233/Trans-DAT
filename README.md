@@ -18,12 +18,14 @@ cd pysot_toolkit
 python test_3_dataset.py
 ```
 
-### Training: 
+### Training
 ```
 cd ltr
 python run_training.py
 ```
 
+### Results
+Our tracking results (txt files) on HOT2023 datasets are available [HERE](https://pan.baidu.com/s/1nwFSK0SDFRwTE3XSjFUpSQ). (Code: eugd)
 
 ### Acknowledgement
 The code in this repository is based on [TransT](https://github.com/chenxin-dlut/TransT). We would like to thank the authors for providing the great frameworks and models.
