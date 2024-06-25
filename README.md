@@ -3,6 +3,8 @@ This repository contains the official implementation for the following paper:
 [Domain Adaptation-aware Transformer for Hyperspectral Object Tracking](https://ieeexplore.ieee.org/document/10491347), 
 which has been accepeted by IEEE TCSVT.
 
+Our tracking results (txt files) on HOT2023 datasets are available [HERE](https://pan.baidu.com/s/1nwFSK0SDFRwTE3XSjFUpSQ). (Code: eugd)
+
 
 ### Environment
 - Python 3.9
@@ -24,8 +26,6 @@ cd ltr
 python run_training.py
 ```
 
-### Results
-Our tracking results (txt files) on HOT2023 datasets are available [HERE](https://pan.baidu.com/s/1nwFSK0SDFRwTE3XSjFUpSQ). (Code: eugd)
 
 ### Acknowledgement
 The code in this repository is based on [TransT](https://github.com/chenxin-dlut/TransT). We would like to thank the authors for providing the great frameworks and models.
